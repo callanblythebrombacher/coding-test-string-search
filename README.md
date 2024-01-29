@@ -14,4 +14,4 @@
 ## example outputs
 
 - 1 ``['some string, ', '"with"', ' content the ','"needs extracting"',]``
-- 2 ``['sometring, ', '', 'with content the ', '', 'needs extracting"']``
+- 2 ``['sometring, ', '""', 'with content the ', '""', 'needs extracting"']``
